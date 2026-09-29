@@ -22,6 +22,5 @@ cd
 rm -rf FREE
 git clone https://github.com/BIJOY-CYBER-404/FREE.git
 cd ~/FREE
-chmod +x FREEE
-./FREEE
+FREEE.py
 ```
