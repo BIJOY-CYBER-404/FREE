@@ -8,5 +8,5 @@ import os
 import platform
 
 import FREEE
-    FREEE.BNG_71_()
+FREEE.BNG_71_()
     
