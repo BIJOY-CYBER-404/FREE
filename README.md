@@ -22,5 +22,5 @@ cd
 rm -rf FREE
 git clone https://github.com/BIJOY-CYBER-404/FREE.git
 cd ~/FREE
-FREEE.py
+python FREEE.py
 ```
