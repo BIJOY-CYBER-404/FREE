@@ -10,7 +10,7 @@ import platform
 bit = platform.architecture()[0]
 
 if bit == '64bit':
-    import FREEE.BNG_71_()
+    import FREEE
     FREEE.BNG_71_()
 elif bit == '32bit':
     print("Currently This Tool is Unavailable For 32bit Devices")
